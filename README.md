@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🔐 AI Security Researcher | Penetration Tester | SOC Analyst
+### 🔐 AI Security Researcher | Penetration Tester | SOC Analyst  | AI Security 
 
 **Building intelligent security solutions at the intersection of AI and cybersecurity**
 
