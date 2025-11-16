@@ -97,18 +97,6 @@ class SecurityResearcher:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oness24&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oness24&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 🏆 Certifications & Achievements
 
 - 🎓 **eJPT** - In Progress
