@@ -2,13 +2,15 @@
 
 <div align="center">
   
-### 🔐 AI Security Researcher | Penetration Tester | SOC Analyst  | AI Security 
+### 🔐 Cybersecurity Analyst | AI Security Researcher | Penetration Tester
 
 **Building intelligent security solutions at the intersection of AI and cybersecurity**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onesmus-simiyu-5584bb330)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onessbyron@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oness24)
+
+![Profile Views](https://komarev.com/ghpvc/?username=oness24&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -21,138 +23,328 @@ class SecurityResearcher:
     def __init__(self):
         self.name = "Onesmus Simiyu"
         self.location = "Curitiba, Brazil 🇧🇷"
+        self.origin = "Kenya 🇰🇪"
         self.role = "Cybersecurity Analyst @ Contego Security"
         self.education = "AI & Intelligent Data Systems @ PUC-PR"
         
-        self.focus_areas = [
-            "AI-Powered Security Solutions",
-            "Penetration Testing & Red Teaming",
-            "Threat Detection & SIEM Automation",
-            "Vulnerability Research & Management"
-        ]
+        self.specializations = {
+            "offensive": ["Penetration Testing", "Vulnerability Research", "Red Teaming"],
+            "defensive": ["SOC Operations", "SIEM Administration", "Incident Response"],
+            "ai_security": ["ML Threat Detection", "AI Model Security", "Intelligent Automation"]
+        }
         
-        self.current_projects = [
-            "AI-enhanced threat detection systems",
-            "Automated security assessment tools",
-            "ML-driven vulnerability prioritization"
-        ]
+        self.mission = "Leveraging AI to build next-generation cybersecurity defenses"
     
-    def get_mission(self):
-        return "Leveraging AI to build the next generation of cybersecurity defenses"
+    def current_focus(self):
+        return [
+            "🤖 AI-powered threat detection systems",
+            "🔍 Automated vulnerability assessment",
+            "🛡️ ML-driven security analytics",
+            "⚡ Intelligent incident response"
+        ]
 ```
+
+### 🌟 What Sets Me Apart
+
+I combine **offensive security expertise** with **AI/ML capabilities** to create intelligent security solutions that go beyond traditional approaches. My unique perspective comes from:
+
+- 🎓 Academic background in AI & Intelligent Data Systems
+- 🔐 Hands-on penetration testing and vulnerability research
+- 🛡️ Real-world SOC operations and incident response
+- 🤖 Building ML models for cybersecurity applications
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 💼 Professional Experience
+
+### 🏢 Contego Security | Cybersecurity Analyst
+**Sep 2024 - Present** | Curitiba, Brazil
+
+- 🔍 Conduct comprehensive penetration tests for enterprise clients
+- 🛡️ Manage SIEM operations (Wazuh) and threat hunting activities
+- 🚀 Implement EDR solutions (CrowdStrike Falcon) across client environments
+- 📊 Develop security dashboards and automated reporting systems
+- 🔧 Resolve critical vulnerabilities including SSH exploits and firewall misconfigurations
+- 📝 Create security playbooks and incident response documentation
+
+**Key Achievements:**
+- ✅ Resolved critical OpenSSH vulnerabilities across multiple production servers
+- ✅ Implemented advanced SIEM integrations reducing alert response time by 40%
+- ✅ Developed AI-powered threat detection system with 85%+ accuracy
+- ✅ Conducted 15+ successful penetration testing engagements
+
+---
+
+## 🛠️ Technical Arsenal
 
 ### **Offensive Security**
+```yaml
+Penetration Testing:
+  Tools: [Burp Suite Pro, Metasploit, Nmap, OWASP ZAP, Nessus, OpenVAS]
+  Techniques: [Web App Testing, Network Scanning, Active Directory Attacks, API Security]
+  Frameworks: [OWASP Top 10, PTES, MITRE ATT&CK]
+
+Scripting & Automation:
+  Languages: [Python, Bash, PowerShell]
+  Focus: [Recon Automation, Exploit Development, Custom Security Tools]
+```
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 
-**Tools:** Nmap • Burp Suite Pro • Metasploit • Nessus • OpenVAS • OWASP ZAP
+### **AI & Machine Learning Security**
+```yaml
+ML Frameworks:
+  - TensorFlow, PyTorch, scikit-learn
+  - Pandas, NumPy for data analysis
 
-### **AI & Machine Learning**
+AI Security Applications:
+  - Anomaly detection using Isolation Forest
+  - Automated threat classification
+  - ML-based vulnerability prioritization
+  - Adversarial ML security testing
+  
+Research Areas:
+  - LLM Security & Prompt Injection
+  - AI Model Extraction Attacks
+  - Adversarial Machine Learning
+  - Secure ML Pipeline Development
+```
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**Focus:** ML-based threat detection • AI security testing • Intelligent automation
+### **Security Operations & Defense**
+```yaml
+SIEM & Monitoring:
+  Platforms: [Wazuh, Splunk, Elastic Stack]
+  Skills: [Log Analysis, Correlation Rules, Dashboard Creation, Alert Tuning]
 
-### **Security Operations**
+EDR & Endpoint Security:
+  - CrowdStrike Falcon Administration
+  - Kaspersky Security Center
+  - Endpoint detection and response
+
+Network Security:
+  Firewalls: [Sophos, Palo Alto Networks, Fortinet]
+  Skills: [Firewall Configuration, VPN Management, IDS/IPS]
+```
+
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-**Platforms:** Wazuh • Splunk • CrowdStrike Falcon • Sophos • Palo Alto • Fortinet
-
 ### **Cloud & Infrastructure**
+```yaml
+Cloud Platforms:
+  - AWS Security Services
+  - Azure Security Center
+  - GCP Security Command Center
+
+DevSecOps:
+  - Docker containerization
+  - CI/CD security integration
+  - Infrastructure as Code security
+```
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 💼 What I Do
+## 🚀 Featured Projects
 
-🎯 **Penetration Testing**
-- Web application security assessments (OWASP Top 10)
-- Network & infrastructure penetration testing
-- Active Directory security audits
-- Manual exploitation & vulnerability validation
+### 🛡️ AdversarialShield
+**Multimodal AI Security Testing Platform** | 🔥 Active Development
 
-🤖 **AI Security Research**
-- Developing AI-powered threat detection systems
-- Building intelligent SIEM automation tools
-- ML-driven vulnerability risk prioritization
-- AI/ML model security assessment
+Intelligent security testing and guardrails for AI systems processing text, images, audio, and code simultaneously.
 
-🛡️ **Security Operations**
-- Level 1 incident response & threat hunting
-- SIEM administration (Wazuh, Splunk)
-- EDR deployment & management (CrowdStrike)
-- Vulnerability management programs
+**Key Features:**
+- 🔍 Automated security testing across all modalities
+- 🛡️ Real-time guardrails and threat protection
+- 🎯 Cross-modal attack detection
+- 📊 94% prompt injection detection rate
+- ⚡ <500ms latency for multimodal validation
+
+**Tech Stack:** Python, TensorFlow, FastAPI, Docker
+
+---
+
+### 🤖 AI-Powered Threat Detection System
+**Machine Learning for Security Log Analysis**
+
+Anomaly detection system using Isolation Forest algorithm for automated threat identification.
+
+**Highlights:**
+- ✅ 85%+ detection accuracy in production
+- ✅ Automated severity classification (Critical, High, Medium, Low)
+- ✅ Real-time security alert generation
+- ✅ Integration with Wazuh SIEM
+
+**Tech Stack:** Python, scikit-learn, Pandas, Wazuh API
+
+---
+
+### ⚔️ Automated Penetration Testing Framework
+**Reconnaissance & Vulnerability Assessment Automation**
+
+Custom framework for streamlining penetration testing workflows.
+
+**Features:**
+- 🔍 Automated reconnaissance and enumeration
+- 📊 Vulnerability scanning and correlation
+- 📝 Automated report generation
+- 🎯 OWASP Top 10 testing modules
+
+**Tech Stack:** Python, Bash, Nmap, Nessus API
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- 🎓 **eJPT** - In Progress
-- ✅ **TryHackMe Junior Penetration Tester**
-- ✅ **Sophos Firewall Certified Engineer**
-- ✅ **Cisco CyberOps Associate**
-- ✅ **Google Cybersecurity Professional**
-- ✅ **TCM Security - AI Security**
-- ✅ **Palo Alto Networks Certifications**
+### 🎓 Active Certifications
+
+| Certification | Issuer | Status | Year |
+|--------------|--------|--------|------|
+| 🎯 **eJPT** (eLearnSecurity Junior Penetration Tester) | eLearnSecurity | In Progress | 2025 |
+| ✅ **TryHackMe Junior Penetration Tester** | TryHackMe | Certified | 2025 |
+| ✅ **Sophos Firewall Certified Engineer** | Sophos | Certified | 2025 |
+| ✅ **CrowdStrike Falcon Administrator** | CrowdStrike | Certified | 2025 |
+| ✅ **Cisco CyberOps Associate** | Cisco | Certified | 2025 |
+| ✅ **Google Cybersecurity Professional** | Google | Certified | 2024 |
+| ✅ **TCM Security - AI Security** | TCM Security | Certified | 2025 |
+| ✅ **Palo Alto Networks Cybersecurity Foundation** | Palo Alto | Certified | 2024 |
+
+### 📊 Training Platforms
+
+- 🔴 **TryHackMe:** Active learner with focus on offensive security paths
+- 🎓 **TCM Security Academy:** Completed AI Security and Purple Team courses
+- 🧪 **Cyberwarfare Labs:** Hands-on penetration testing practice
+- 📚 **Udemy:** Multiple cybersecurity and AI/ML courses completed
 
 ---
 
-## 🔬 Current Focus
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oness24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oness24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oness24&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## 🔬 Current Focus (Q4 2025)
 
 ```yaml
-learning:
+🎓 Learning:
   - Advanced AI/ML security techniques
   - Cloud penetration testing (AWS, Azure, GCP)
   - Exploit development & reverse engineering
-  - Threat intelligence automation
+  - Advanced Active Directory attacks
+  - Kubernetes security
 
-building:
-  - AI-powered vulnerability scanner
-  - Automated SIEM analysis toolkit
-  - Custom penetration testing framework
-  - ML-based threat detection models
+🛠️ Building:
+  - AdversarialShield - Multimodal AI security platform
+  - AI-powered vulnerability scanner with context awareness
+  - Automated SIEM analysis and response toolkit
+  - Custom reconnaissance automation framework
+  - ML-based threat intelligence aggregator
 
-contributing:
-  - Open-source security tools
-  - AI security research
+🔬 Researching:
+  - LLM security vulnerabilities & prompt injection
+  - Adversarial machine learning attack techniques
+  - AI model extraction and inversion attacks
+  - Zero-day vulnerability discovery
+  - Multimodal AI system security
+
+🤝 Contributing:
+  - Open-source security tool development
+  - AI security research papers
   - Cybersecurity education content
+  - Community threat intelligence sharing
 ```
 
 ---
 
-## 📫 Let's Connect!
+## 📝 Recent Highlights
 
-I'm always interested in:
-- 🤝 Collaborating on AI security projects
-- 💡 Discussing emerging cybersecurity threats
-- 🔬 Open-source security tool development
-- 📚 Sharing knowledge and learning together
+### 💡 November 2025
+- 🚀 Launched **AdversarialShield** development - addressing critical 2025 AI security threats
+- 🤖 Achieved 85%+ accuracy with AI-powered threat detection in production
+- 📊 Automated reconnaissance framework for penetration testing
+- 📚 Published comprehensive AI security resources guide
 
-**Reach out:**
-- 📧 Email: onessbyron@gmail.com
-- 💼 LinkedIn: [onesmus-simiyu-5584bb330](https://linkedin.com/in/onesmus-simiyu-5584bb330)
-- 📍 Location: Curitiba, Paraná, Brazil
+### 🎯 October 2025
+- ✅ Resolved critical OpenSSH vulnerabilities across multiple enterprise servers
+- 🔧 Implemented advanced SIEM tool integrations
+- 📖 Documented complete SOC incident response playbooks
+- 🛡️ Deployed CrowdStrike Falcon EDR for 3 new clients
+
+### 🏆 September 2025
+- 🎓 Earned TCM Security AI Security certification
+- 🚀 Promoted from Intern to Cybersecurity Analyst at Contego Security
+- 💻 Released penetration testing automation script suite
+- 📊 Conducted 5 comprehensive security assessments
+
+---
+
+## 💭 Philosophy
+
+> *"The best defense is understanding the offense - powered by intelligence"*
+
+I believe effective cybersecurity requires:
+
+1. **🎯 Offensive Mindset** - Think like an attacker to defend better
+2. **🛡️ Proactive Defense** - Anticipate threats before they materialize
+3. **🤖 AI Augmentation** - Use ML/AI to scale security operations
+4. **📚 Continuous Learning** - Every incident is a learning opportunity
+5. **🤝 Community Collaboration** - Share knowledge to strengthen collective defense
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on:
+
+- 🔬 **AI Security Research** - Exploring new frontiers in ML/AI security
+- 🛠️ **Open-Source Tools** - Building tools that benefit the community
+- 💡 **Threat Intelligence** - Discussing emerging threats and defenses
+- 📚 **Knowledge Sharing** - Writing, teaching, and learning together
+- 🎯 **Security Projects** - Hands-on cybersecurity initiatives
+
+### 📫 Reach Out:
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onesmus-simiyu-5584bb330)
+[![Email](https://img.shields.io/badge/Email-onessbyron@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onessbyron@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oness24)
+
+**📍 Location:** Curitiba, Paraná, Brazil  
+**🌍 Origin:** Kenya  
+**💼 Open to:** Security Research Collaboration, Speaking Opportunities, Job Opportunities
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 *"The best defense is understanding the offense - powered by intelligence"*
+### ⭐ *If you find my work interesting, consider starring some repositories!*
 
-![Profile Views](https://komarev.com/ghpvc/?username=oness24&color=blueviolet)
+**🔐 Passionate about securing the future with AI-powered solutions**
 
-⭐️ From [Onesmus Simiyu](https://github.com/oness24)
+---
+
+*Last Updated: November 2025*
 
 </div>
