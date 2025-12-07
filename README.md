@@ -210,13 +210,19 @@ Custom framework for streamlining penetration testing workflows.
 
 | Certification | Issuer | Status | Year |
 |--------------|--------|--------|------|
-| ✅ **eJPT** (eLearnSecurity Junior Penetration Tester) | eLearnSecurity | Certified | 2025 |
-| ✅ **TryHackMe Junior Penetration Tester** | TryHackMe | Certified | 2025 |
-| ✅ **Sophos Firewall Certified Engineer** | Sophos | Certified | 2025 |
-| ✅ **CrowdStrike Falcon Administrator** | CrowdStrike | Certified | 2025 |
-| ✅ **Cisco CyberOps Associate** | Cisco | Certified | 2025 |
-| ✅ **Google Cybersecurity Professional** | Google | Certified | 2024 |
-| ✅ **TCM Security - AI Security** | TCM Security | Certified | 2025 |
+### 🏆 Certifications & Achievements
+
+### 🎓 Active Certifications
+
+| Certification | Issuer | Status | Year |
+|--------------|--------|--------|------|
+| 🎯 **eJPT** (Junior Penetration Tester) | INE Security | Certified | 2025 |
+| 🤖 **Practical AI Hacking** | TCM Security | Certified | 2025 |
+| 🛡️ **CrowdStrike Falcon Administrator** | CrowdStrike | Certified | 2025 |
+| ⚔️ **Purple Team Operations** | CyberWarFare Labs| Certified | 2025 |
+| 🧱 **Sophos Firewall Engineer** | Sophos | Certified | 2025 |
+| ☁️ **Cisco CyberOps Associate** | Cisco | Certified | 2025 |
+| 🔒 **Google Cybersecurity Professional** | Google | Certified | 2024 |
 | ✅ **Palo Alto Networks Cybersecurity Foundation** | Palo Alto | Certified | 2024 |
 
 ### 📊 Training Platforms
