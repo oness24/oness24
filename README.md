@@ -210,7 +210,7 @@ Custom framework for streamlining penetration testing workflows.
 
 | Certification | Issuer | Status | Year |
 |--------------|--------|--------|------|
-| 🎯 **eJPT** (eLearnSecurity Junior Penetration Tester) | eLearnSecurity | Certified | 2025 |
+| ✅ **eJPT** (eLearnSecurity Junior Penetration Tester) | eLearnSecurity | Certified | 2025 |
 | ✅ **TryHackMe Junior Penetration Tester** | TryHackMe | Certified | 2025 |
 | ✅ **Sophos Firewall Certified Engineer** | Sophos | Certified | 2025 |
 | ✅ **CrowdStrike Falcon Administrator** | CrowdStrike | Certified | 2025 |
