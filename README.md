@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🔐 Cybersecurity Analyst | AI Security Researcher | Penetration Tester | AI Security | AI Red Teamer
+### 🔐 Cybersecurity Analyst | AI Security | Penetration Tester | AI Red Teamer
 
 **Building intelligent security solutions at the intersection of AI and cybersecurity**
 
