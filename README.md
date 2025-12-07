@@ -6,11 +6,11 @@
 
 **Building intelligent security solutions at the intersection of AI and cybersecurity**
 
-[!LinkedIn](https://linkedin.com/in/onesmus-simiyu-5584bb330)
-[!Email](mailto:onessbyron@gmail.com)
-[!GitHub](https://github.com/oness24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onesmus-simiyu-5584bb330)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onessbyron@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oness24)
 
-!Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=oness24&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -89,10 +89,10 @@ Scripting & Automation:
   Focus: [Recon Automation, Exploit Development, Custom Security Tools]
 ```
 
-!Python
-!Bash
-!PowerShell
-!Kali Linux
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ### **AI & Machine Learning Security**
 ```yaml
@@ -113,9 +113,9 @@ Research Areas:
   - Secure ML Pipeline Development
 ```
 
-!TensorFlow
-!PyTorch
-!scikit-learn
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### **Security Operations & Defense**
 ```yaml
@@ -133,9 +133,9 @@ Network Security:
   Skills: [Firewall Configuration, VPN Management, IDS/IPS]
 ```
 
-!Splunk
-!Linux
-!Windows
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### **Cloud & Infrastructure**
 ```yaml
@@ -150,9 +150,9 @@ DevSecOps:
   - Infrastructure as Code security
 ```
 
-!AWS
-!Azure
-!Docker
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -210,12 +210,6 @@ Custom framework for streamlining penetration testing workflows.
 
 | Certification | Issuer | Status | Year |
 |--------------|--------|--------|------|
-### 🏆 Certifications & Achievements
-
-### 🎓 Active Certifications
-
-| Certification | Issuer | Status | Year |
-|--------------|--------|--------|------|
 | 🎯 **eJPT** (Junior Penetration Tester) | INE Security | Certified | 2025 |
 | 🤖 **Practical AI Hacking** | TCM Security | Certified | 2025 |
 | 🛡️ **CrowdStrike Falcon Administrator** | CrowdStrike | Certified | 2025 |
@@ -238,11 +232,11 @@ Custom framework for streamlining penetration testing workflows.
 
 <div align="center">
 
-!GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oness24&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-!Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oness24&layout=compact&theme=radical&hide_border=true)
 
-!GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oness24&theme=radical&hide_border=true)
 
 </div>
 
@@ -331,9 +325,9 @@ I'm always interested in collaborating on:
 
 <div align="center">
 
-[!LinkedIn](https://linkedin.com/in/onesmus-simiyu-5584bb330)
-[!Email](mailto:onessbyron@gmail.com)
-[!GitHub](https://github.com/oness24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onesmus-simiyu-5584bb330)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onessbyron@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oness24)
 
 **📍 Location:** Curitiba, Paraná, Brazil  
 **🌍 Origin:** Kenya  
@@ -351,6 +345,6 @@ I'm always interested in collaborating on:
 
 ---
 
-*Last Updated: November 2025*
+*Last Updated: December 2025*
 
 </div>
