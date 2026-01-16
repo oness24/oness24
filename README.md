@@ -204,6 +204,14 @@ Custom framework for streamlining penetration testing workflows.
 
 ---
 
+## 🏆 Recent CTF Achievements
+
+- **AI-Powered Job Application Portal** - CWL Infinity (20 pts) ✅
+  - [View Write-up →](https://github.com/yourusername/ctf-writeups)
+
+![CTF](https://img.shields.io/badge/CTF-20%20pts-brightgreen)
+![AI Security](https://img.shields.io/badge/AI%20Security-Expert-orange)
+
 ## 🏆 Certifications & Achievements
 
 ### 🎓 Active Certifications
